@@ -19,7 +19,6 @@ botones.forEach(boton => {
     }
       valor.textContent = contador;
 
-      // vamos a cambiar los colores 
       if(contador == 0) {
         valor.style.color = '#fff';
       }
