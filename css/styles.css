@@ -1,0 +1,44 @@
+body {
+  background-image: url("wallpaper2.jpg");
+  -webkit-text-stroke: 2px black;
+ 
+}
+
+.container {
+  padding: 50px;
+  font-family: Verdana;
+  font-size: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  color: #fff;
+}
+
+span { 
+    font-size: 7em;
+    font-family: Verdana;
+    -webkit-text-stroke: 2px black;
+
+  }
+
+button {
+  font-family: Verdana;
+  font-size: 1em;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 15px 20px;
+  margin: 20px;
+  background-color: #ff6961;
+  text-transform: uppercase;
+  font-style: italic; 
+    -webkit-text-stroke: 0;
+}
+
+.elemento1 {
+  font-family: Verdana;
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  align-items: center;
+}
